@@ -95,13 +95,13 @@ body {
   font-size: 16px;
   line-height: 32px;
   font-weight: 400;
-  color: #111111;
+  color: #3F4C44;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "roboto", sans-serif;
+  font-family: "montserrat", sans-serif;
   font-weight: 700;
-  color: #111111;
+  color: #3F4C44;
 }
 
 h1 {
@@ -135,7 +135,7 @@ h6 {
 }
 
 p {
-  font-family: 'roboto', sans-serif;
+  font-family: 'montserrat', sans-serif;
   font-size: 16px;
   line-height: 32px;
   font-weight: 400;
@@ -2981,7 +2981,7 @@ a:hover, a:focus {
   bottom: 0;
   left: 0;
   z-index: -1;
-  background-color: #111111;
+  background-color: #3F4C44;
   border-radius: 2px;
   -webkit-transform: scaleX(0);
       -ms-transform: scaleX(0);
@@ -13311,12 +13311,12 @@ a:hover, a:focus {
 /* SHOWCASE SLIDER */
 /*-------------------------------------------------------*/
 .showcase_slider .swiper-slide:hover .content-showcase-wrapper {
-  background-color: #111;
+  background-color: #3F4C44;
   background-image: url(../images/lines.png);
 }
 
 .showcase_slider .swiper-slide:hover .slide-title a {
-  color: #ffffff;
+  color: #AA9680;
 }
 
 .showcase_slider .swiper-slide:hover .slide-category a {
